@@ -22,4 +22,21 @@ aside{
 	font-style: italic;
 	background: yellow;
 
+
+}
+
+article{
+	color: #008000;
+}
+
+.h5{
+	color: rgb(30, 141, 75);
+}
+
+.h6{
+	color: hsl(0, 61%, 50%) ;
+}
+
+.h7{
+	color: #ffff47;
 }
